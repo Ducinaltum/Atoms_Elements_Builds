@@ -1,0 +1,49 @@
+{
+  "_meta": {
+    "maxChars": {
+      "welcome": 20,
+      "readyToPlay": 20,
+      "pressContinue": 50,
+      "greatJob": 20,
+      "onePlusOne": 30
+    }
+  },
+  "en": {
+    "welcome": "Welcome!",
+    "readyToPlay": "Are you ready to play?",
+    "greatJob": "Great job!",
+    "pressContinue": "Press the next button to continue.",
+    "onePlusOne": "One + One = Two",
+    "pantry": "Pantry",
+    "purchasePan": "Purchase Pan  <color=#F9DD3B>{0}</color>",
+    "autoSave": "...Auto Saving Complete",
+    "gameWin": "Congratulations!",
+    "newGame": "NEW GAME",
+    "continue": "CONTINUE",
+    "gameLose": "Try Again!",
+    "gameLose1": "Press <b>ESCAPE</b> to restart level",
+    "tutorialTxt_1": "The atomic number of an element is equal to the number of protons it contains ",
+    "tutorialTxt_2": "The atomic mass of an element is the sum of the protons and neutrons it contains",
+    "tutorialTxt_3": "In a neutral atom, the number of electrons is equal to the number of protons",
+    "game_s_1_1": "Hello! You have to throw particles to ATOM",
+    "game_s_1_2": "Protons, electrons and neutrons make a ATOM",
+    "game_s_1_3": "Protons give a name of the atom",
+    "game_s_1_4": "Try to copy element in your right to your left",
+    "game_s_1_5": "ENJOY",
+    "game_s_2_1": "The tool we will use first is the THERMOMETER",
+    "game_s_2_2": "Each type of cloud appears at a certain height. Once we find it I will take notes about its altitude. This helps to understand what kind of cloud we are analyzing.",
+    "game_s_2_3": "Sorry! I forgot to tell you that we will use BINOCULARS to find clouds.",
+    "game_s_2_4": "Once we find them I will take notes about some curiosities in my notebook.",
+    "game_s_2_5": "Once we find them I will take notes about some curiosities in my notebook."
+  },
+
+  "es": {
+    "welcome": "¡Bienvenido!",
+    "readyToPlay": "¿Estás listo para jugar?",
+    "greatJob": "¡Gran trabajo!",
+    "pressContinue": "Presione el botón 'siguiente' para continuar.",
+    "onePlusOne": "Uno + Uno = Dos",
+    "newGameBtn": "NUEVO JUEGO",
+    "continueBtn": "CONTINUAR"
+  }
+}
